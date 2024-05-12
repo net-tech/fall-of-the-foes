@@ -5,8 +5,10 @@
 1. Clone or download the repository to your local machine:
 
 ```
-git clone <repository_url>
+git clone https://github.com/net-tech/fall-of-the-foes
 ```
+
+or use the download button on this page. It is green and located at the top right of the repository.
 
 2. Install the required dependencies:
 
